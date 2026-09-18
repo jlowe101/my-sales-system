@@ -1,0 +1,8 @@
+{
+  "name": "sales-inventory-system",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
